@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2144b5bad5ceca46cb2712645bf17ff56f86b743",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x81c993117b37e5623d524f2914204ff72dad1cac30c801ba775e6d9a27522180",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "FootballFwends NFT",
+  "SYMBOL": "FFNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/footballfwends",
+  "SHOW_BACKGROUND": true
+}
